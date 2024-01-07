@@ -1,7 +1,7 @@
 # Generic Tasks
 ---
 
-### **Task 3: Working With Github**
+### **Task 1: Working With Github**
 ---
 
 - Git: It is a version control system which tracks the changes in a project when it is worked by a team. It helps in make changes in the project or revert to the earlier version whenever needed. It also acts as a history record and give information on the changes made in it with date,time and the developer who did it .
@@ -12,7 +12,7 @@
 
 ---
 
-### **Task 4: Get familiar with the command line on ubuntu and do the following subtasks**
+### **Task 2: Get familiar with the command line on ubuntu and do the following subtasks**
 ---
 Ubuntu is a Linux-based OS best suited for general computing and having user-freindly interface. 
 
@@ -34,7 +34,7 @@ In this task, we had to :
 ![alt text](image.jpg)  ![alt text](image.jpg) 
 
 ---
-### **Task 5: Kaggle Contest**
+### **Task 3: Kaggle Contest**
 ---
 
 Kaggle is a data-science competition platform and community for data scientists and machine learning practitioners. 
@@ -46,7 +46,7 @@ The source code can be referred through this link: [Titanic ML Notebook](https:/
 ![alt text](image.jpg) 
 
 ---
-### **Task 8: Writing Resource Article using Markdown**
+### **Task 4: Writing Resource Article using Markdown**
 ---
 Markdown is a markup language for creating formatted text using plain text editor. In this task we had to write about any article of our choice using markdown language. For this task I wrote an article on BharatGPT which was very unpopular among people.  
 What is the use ? 
@@ -57,7 +57,7 @@ What is the use ?
 
 
 ---
-### **Task 9: Tinkercad**
+### **Task 5: Tinkercad**
 --- 
 
 Tinkercad is an online 3D modelling program  used for designing electronic circuits and coding.  
@@ -67,7 +67,7 @@ We did some changes in the code and also found the distance in inches and millim
 
 
 ---
-### **Task 10: Speed Control of DC Motor**
+### **Task 6: Speed Control of DC Motor**
 ---
 This task requires had to be done both through online simulation and also through constructing the circuit physically. The online simulation was done using Tinkercad while the offline working was done in the presence of the cordinator. We learnt how to moderate the speed of the motor using the Arduino-based setup. 
 The components used were:
@@ -78,23 +78,37 @@ The components used were:
 
 
 ---
-### **Task 11: LED Toggle Using ESP32**
+### **Task 7: LED Toggle Using ESP32**
 ---
 ESP32 is a series of low-cost,low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth.We created a web-server which would help us toggle the LED connected with ESP32. The code was uploaded to the ESP32 using the Arduino IDE 
 
 ---
-### **Task 12: Soldering Prerequisites**
+### **Task 8: Soldering Prerequisites**
 ---
 Soldering is a process used or joining metal parts using a filler metal called solder.In this task we learnt about flux ,electronic copper board and soldering iron. In the presence of the cordinator I soldered a small LED to the electronic board which was later connected to a battery to check its working. We also learnt how to remove the solder.
 
 ---
-### **Task 13: 555 Astable Multivibrator**
+### **Task 9: 555 Astable Multivibrator**
 ---
-Astable Multivibrator is a device which produces continous pulse.It can be varied the two connected resistors R1 and R2.We use relation (R1+R2)/(R1+2R2) to know the duty cycle. From this relation, to get 60% effeciency R1=2R~2~
+Astable Multivibrator is a device which produces continous pulse.It can be varied the two connected resistors R1 and R2.We use relation (R1+R2)/(R1+2R2) to know the duty cycle. From this relation, to get 60% effeciency R1 should be equal to 2 times of R2.In our setup we fixed R1 value by taking a resistor while R2 was variable as a potentiometer was used to get the desired output. we got nearly the same answer and observed the multivibrator couldn't have an efficiency less than 50%. 
 
 ---
-### **Task 14: Karnaugh Maps and Deriving the logic circuit**
+### **Task 10: Karnaugh Maps and Deriving the logic circuit**
 ---
+The Karnaugh map is a method of simplifying Boolean algebra expressions.According to the need of problem. K-map is a table-like representation, but it gives more information than the table.In this task we had to create a K-map for an alarm(represented here by a led)which would beep only when door is locked and key is not found and also design a circuit for the same.
+
 ---
-### **Task 15: Active Participation**
+### **Task 11: Active Participation**
+---
+***GCCF and GenAI by GDSC UVCE***   
+GDSC had conducted a program in which we had to complete their Cloud Computing and GenAI tasks in a span of month and half.This help me learn about cloud computing and for its completion I was given a certificate. 
+
+---
+
+## Conclusion :  
+
+In an overall I have completed 12 tasks out of the 15 tasks I had been assigned. I would also have completed the task on 3D printing as it was under repair I couldn't do so but I will complete the task after it gets repaired. I have learnt a lot from the generic tasks and would continue to do as a student of Marvel.
+
+---
+# Thank You 
 ---
