@@ -118,8 +118,9 @@ Output:
 ---
 ### **Task 10: Karnaugh Maps and Deriving the logic circuit**
 ---
-The Karnaugh map is a method of simplifying Boolean algebra expressions.According to the need of problem. K-map is a table-like representation, but it gives more information than the table.In this task we had to create a K-map for an alarm(represented here by a led)which would beep only when door is locked and key is not found and also design a circuit for the same.
-![K-Maps](https://github.com/Arya-Pai/Marvel-Report/assets/123173952/dbfbc381-62d8-4164-ae2b-bb441f47d804)
+The Karnaugh map is a method of simplifying Boolean algebra expressions,according to the need of problem. K-map is a table-like representation, but it gives more information than the table.In this task we had to create a K-map for an alarm(represented here by a led)which would beep only when door is locked and key is not found and also design a circuit for the same.
+![K-maps](https://github.com/Arya-Pai/Marvel-Report/assets/123173952/d6f3b7f1-1df6-45df-9740-71851de6e297)
+![Deriving Logic circuit](https://github.com/Arya-Pai/Marvel-Report/assets/123173952/dbfbc381-62d8-4164-ae2b-bb441f47d804)
 ---
 ### **Task 11: Active Participation**
 ---
