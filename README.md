@@ -27,3 +27,4 @@ This repo has all the information on Marvel Common task and this file has all im
 ![Screenshot 2024-01-08 at 00 42 24](https://github.com/Arya-Pai/Marvel-Report/assets/123173952/2b29262e-0f33-471b-af3f-6e55937785e5)
 ![Screenshot 2024-01-08 at 01 01 21](https://github.com/Arya-Pai/Marvel-Report/assets/123173952/f75bbfb7-eee5-4b4c-b3da-e61c86cbf896)
 ![b815d98c-274d-4888-87b4-b61b95bddcfb](https://github.com/Arya-Pai/Marvel-Report/assets/123173952/d6f3b7f1-1df6-45df-9740-71851de6e297)
+![Screenshot 2024-10-01 at 02 03 19](https://github.com/user-attachments/assets/1fb10735-d97d-4493-8ceb-a39df17f7972)
